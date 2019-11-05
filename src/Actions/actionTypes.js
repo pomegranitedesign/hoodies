@@ -1,0 +1,8 @@
+export const CHANGE_PHONE = "CHANGE_PHONE";
+export const CHANGE_CODE = "CHANGE_CODE";
+
+// USER
+export const LOGOUT_USER = "LOGOUT_USER";
+export const FETCH_CONTACTS = "FETCH_CONTACTS";
+export const REMOVE_CONTACT = "REMOVE_CONTACT";
+export const ADD_CONTACT = "ADD_CONTACT";
